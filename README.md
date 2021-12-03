@@ -4,6 +4,7 @@ Jak nainstalovat TintMetr script:
 
 Potřebné resources:
 https://github.com/JayMontana36/mythic_notify
+
 https://github.com/SWRP-PUBLIC/pogressBar
 
 1.) Otevři si tvojí sloužku s resources
