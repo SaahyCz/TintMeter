@@ -20,5 +20,6 @@ Nikdy needitujte název zatmavení oken! Když je na řádku napsáno 'Limo' a p
 
 Jak funguje tento script:
 
+https://www.youtube.com/watch?v=3vMW2SP7sGw
 
 Made by: Saahy#9057,..J0hN70#8599
