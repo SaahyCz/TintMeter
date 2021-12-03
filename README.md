@@ -3,6 +3,7 @@ TintMetr 1.0.0
 Jak nainstalovat TintMetr script:
 
 Potřebné resources:
+
 https://github.com/JayMontana36/mythic_notify
 
 https://github.com/SWRP-PUBLIC/pogressBar
