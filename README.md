@@ -6,11 +6,11 @@ https://github.com/JayMontana36/mythic_notify
 
 https://github.com/SWRP-PUBLIC/pogressBar
 
-Jak nainstalovat TintMetr script:
+Jak nainstalovat TintMeter script:
 
 1.) Otevři si tvojí sloužku s resources
 
-2.) Vlož do ní složku TintMetr
+2.) Vlož do ní složku TintMeter
 
 3.) Napsat start/esnure TintMetr do server.cfg
 
