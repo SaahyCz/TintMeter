@@ -16,7 +16,6 @@ Jak nainstalovat TintMetr script:
 
 Dodatežné info:
 
-Nikdy needitujte název zatmavení oken! Když je na řádku napsáno 'Limo' a pod tím 'Stock' tak to tak je!!!
 
 Jak funguje tento script:
 
