@@ -1,4 +1,4 @@
-TintMetr 1.0.0
+
 
 Potřebné resources:
 
@@ -14,7 +14,7 @@ Jak nainstalovat TintMeter script:
 
 3.) Napsat start/esnure TintMetr do server.cfg
 
-Dodatežné info:
+Dodatečné info:
 
 
 Jak funguje tento script:
